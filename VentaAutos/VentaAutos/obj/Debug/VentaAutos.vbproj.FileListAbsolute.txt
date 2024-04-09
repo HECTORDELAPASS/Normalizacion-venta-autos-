@@ -1,0 +1,13 @@
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\bin\Debug\VentaAutos.exe.config
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\bin\Debug\VentaAutos.exe
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\bin\Debug\VentaAutos.pdb
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\bin\Debug\VentaAutos.xml
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.vbproj.AssemblyReference.cache
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.Form1.resources
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.Resources.resources
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.vbproj.GenerateResource.cache
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.vbproj.CoreCompileInputs.cache
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.exe
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.xml
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.pdb
+C:\Users\HECTOR F5\source\repos\VentaAutos\VentaAutos\obj\Debug\VentaAutos.Infor.resources
